@@ -8,7 +8,7 @@
 - Python, Django (nivel académico)
 - HTML, CSS, JavaScript
 - SQL / PostgreSQL
-- Linux (Ubuntu, Debian)
+- Linux (Ubuntu, Debian, Kali)
 - Git y GitHub
 
 🎯 Objetivo:

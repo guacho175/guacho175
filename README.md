@@ -5,7 +5,6 @@
 **Desarrollador de Software** · Ingeniería en Informática @ INACAP · La Serena, Chile
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-christian--galindez-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-galindez/)
-[![GitHub followers](https://img.shields.io/github/followers/guacho175?style=flat&label=Followers&color=1a1b27)](https://github.com/guacho175?tab=followers)
 
 </div>
 
@@ -77,10 +76,7 @@ Aplicación móvil para reporte ciudadano de microbasurales, complemento del sis
 <div align="center">
 
 ![Repos](https://img.shields.io/badge/Repositorios-38-181717?style=for-the-badge&logo=github)
-![Python](https://img.shields.io/badge/Top%20Lang-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Commits](https://img.shields.io/github/commit-activity/m/guacho175/microbasurales?style=for-the-badge&label=Commits%20(micro)&color=22c55e)
 
-🔗 [Ver actividad completa →](https://github.com/guacho175?tab=overview)
 
 </div>
 

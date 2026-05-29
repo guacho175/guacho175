@@ -88,10 +88,10 @@ Aplicación móvil para reporte ciudadano de microbasurales, complemento del sis
 
 ## 💼 Experiencia
 
-- **Desarrollador de Software** — Alpha Docere *(2024 – presente)*
+- **Desarrollador de Software** — Alpha Docere *(enero – marzo 2026)*
   Desarrollo y mantenimiento de plataformas educativas, integración de sistemas y soporte técnico de proyectos.
 
-- **Mentoría Technovation Girls** *(2024)*
+- **Mentoría Technovation Girls** *(enero 2025)*
   Mentora técnica en competencia internacional de tecnología para jóvenes. Guía en desarrollo de apps móviles y documentación técnica.
 
 ---
